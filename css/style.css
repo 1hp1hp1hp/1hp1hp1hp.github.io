@@ -330,6 +330,12 @@ body {
   color: #6c6c6c;
   margin-bottom: 19.5px; }
 
+@keyframes animateGlow {
+  0% {
+    background-position: 0% 50%; }
+  100% {
+    background-position: 200% 50%; } }
+
 .btn-main {
   font-family: "Montserrat", sans-serif;
   font-size: 16px;
@@ -346,7 +352,9 @@ body {
   border: none;
   background: linear-gradient(to right, #fe985b, #fe4fa7); }
   .btn-main:hover {
-    background: linear-gradient(to right, #fe4fa7, #fe985b); }
+    background: linear-gradient(to right, #fe985b, #66aabb, #fe4fa7);
+    background-size: 200% 200%;
+    animation: animateGlow 0.8s linear; }
 
 .btn-secondary {
   font-family: "Montserrat", sans-serif;
