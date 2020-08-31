@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="59.991" height="60" viewBox="0 0 59.991 60">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="0.035" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff955d"/>
+      <stop offset="1" stop-color="#ff4cab"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <path id="Clip_5" data-name="Clip 5" d="M0,0H59.991V2.95H0Z" transform="translate(0.009 0.028)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group" transform="translate(-0.009)">
+    <path id="Fill_1" data-name="Fill 1" d="M19.613,50h-6.24a4.848,4.848,0,0,1-4.841-4.845l.012-6.631A16.749,16.749,0,0,0,4.217,27.171,16.586,16.586,0,0,1,.749,21.079a16.293,16.293,0,0,1-.608-7.046A16.406,16.406,0,0,1,16.433,0,16.485,16.485,0,0,1,33,16.332a15.976,15.976,0,0,1-4.459,11.1,15.879,15.879,0,0,0-4.076,11.1l-.012,6.631A4.848,4.848,0,0,1,19.613,50ZM11.2,42.219v2.937a2.273,2.273,0,0,0,2.295,2.3h6.239a2.3,2.3,0,0,0,2.3-2.3h-.013V42.219ZM16.445,2.557A14.231,14.231,0,0,0,2.567,14.423a13.7,13.7,0,0,0,3.443,11.1,19.889,19.889,0,0,1,5.092,13v1.15H21.92v-1.15a18.411,18.411,0,0,1,4.841-12.883,13.5,13.5,0,0,0,3.694-9.31A13.91,13.91,0,0,0,16.445,2.557Z" transform="translate(13 10)" fill="url(#linear-gradient)"/>
+    <path id="Fill_2" data-name="Fill 2" d="M0,6H3V0H0Z" transform="translate(28)" fill="url(#linear-gradient)"/>
+    <path id="Fill_3" data-name="Fill 3" d="M0,4.212,1.739,6,6,1.788,4.249,0Z" transform="translate(45 8)" fill="url(#linear-gradient)"/>
+    <g id="Group_7" data-name="Group 7" transform="translate(0 27)">
+      <path id="Clip_5-2" data-name="Clip 5" d="M0,0H59.991V2.95H0Z" transform="translate(0.009 0.028)" fill="none"/>
+      <g id="Group_7-2" data-name="Group 7" clip-path="url(#clip-path)">
+        <path id="Fill_4" data-name="Fill 4" d="M0,2.95H6.392V0H0Z" transform="translate(53.608 0.028)" fill="url(#linear-gradient)"/>
+        <path id="Fill_6" data-name="Fill 6" d="M0,2.95H6.383V0H0Z" transform="translate(0.009 0.028)" fill="url(#linear-gradient)"/>
+      </g>
+    </g>
+    <path id="Fill_8" data-name="Fill 8" d="M1.751,0,0,1.788,4.261,6,6,4.212Z" transform="translate(8 8)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>
